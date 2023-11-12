@@ -22,7 +22,7 @@
 - Axios: リクエストを処理する
 - Firebase: NoSQLデータベース、デプロイ
 
-### NestJS-TypeScript　(中級レベル)
+### NestJS-TypeScript (中級レベル)
 
   ![NestJS Project](./Image/nestjs.png)
 
