@@ -15,7 +15,7 @@
 
   ![ReactJS Project](./Image/reactjs1.png)
 
-- Framer amation: アニメーション
+- Framer motion: アニメーション
 - i18next: 翻訳
 - Antd: コンポーネント
 - SASS, Fontawesome: CSS
